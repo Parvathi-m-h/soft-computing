@@ -217,19 +217,3 @@ print "(-) Precision",negPre
 
 negRec=(((max_1)*1.0)/(max_1+min_0))*100#fp/(fp+fn)
 print "(-) Recall",negRec
-
-
-
-
-
-
-
-# cluster_0=list()
-# cluster_1=list()
-# if row in cluster_new:
-# 			if (row[44]== 0):
-
-# 				cluster_0.append(row)
-# 			else:
-# 				print "row[44]",row[44]
-# 				cluster_1.append(row)
